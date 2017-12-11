@@ -8,7 +8,8 @@ Package maphelper provides functions to sort maps.
 
 #### Requirements
 * Go1.8 and later
-  It uses [sort.SliceStable(require Go1.8 and later)](https://godoc.org/sort#SliceStable) which need Go1.8 and later.
+
+  It uses [sort.SliceStable](https://godoc.org/sort#SliceStable) which need Go1.8 and later.
 
 #### Examples
         // string->int map:
