@@ -6,6 +6,10 @@ Package maphelper provides functions to sort maps.
 [![Go Report Card](https://goreportcard.com/badge/github.com/northbright/maphelper)](https://goreportcard.com/report/github.com/northbright/maphelper)
 [![GoDoc](https://godoc.org/github.com/northbright/maphelper?status.svg)](https://godoc.org/github.com/northbright/maphelper)
 
+#### Requirements
+* Go1.8 and later
+  It uses [sort.SliceStable(require Go1.8 and later)](https://godoc.org/sort#SliceStable) which need Go1.8 and later.
+
 #### Examples
         // string->int map:
         m1 := map[string]int{"a": 3, "c": 2, "b": 1}
