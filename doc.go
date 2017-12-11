@@ -1,6 +1,6 @@
 /*
 
-Package mathhelper provides functions to sort maps.
+Package maphelper provides functions to sort maps.
 
 */
-package mathhelper
+package maphelper
