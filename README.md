@@ -1,6 +1,6 @@
 # maphelper
 
-Package maphelper provides functions to sort maps by values.
+Package maphelper provides functions to sort maps.
 
 [![Build Status](https://travis-ci.org/northbright/maphelper.svg?branch=master)](https://travis-ci.org/northbright/maphelper)
 [![Go Report Card](https://goreportcard.com/badge/github.com/northbright/maphelper)](https://goreportcard.com/report/github.com/northbright/maphelper)
